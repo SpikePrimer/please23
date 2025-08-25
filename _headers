@@ -1,0 +1,11 @@
+/Build/Docs.framework.js.gz
+  Content-Encoding: gzip
+  Content-Type: application/javascript
+
+/Build/Docs.data.gz
+  Content-Encoding: gzip
+  Content-Type: application/octet-stream
+
+/Build/Docs.wasm.gz
+  Content-Encoding: gzip
+  Content-Type: application/wasm
